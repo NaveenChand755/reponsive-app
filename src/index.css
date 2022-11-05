@@ -11,3 +11,16 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.css-hip9hq-MuiPaper-root-MuiAppBar-root{
+  color: black !important;
+  font-family: 'Open Sans' !important;
+  font-weight: 600 !important;
+}
+
+
+.css-1q39md6-MuiButtonBase-root-MuiButton-root{
+  color: black !important;
+  font-family: 'Open Sans' !important;
+  font-weight: 600 !important;
+}

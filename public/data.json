@@ -1,0 +1,28 @@
+{
+  "data": [
+    {
+      "photo": "/assets/image1.png",
+      "title": "Image 1"
+    },
+    {
+      "photo": "/assets/image2.png",
+      "title": "Image 2"
+    },
+    {
+      "photo": "/assets/image3.png",
+      "title": "Image 3"
+    },
+    {
+      "photo": "/assets/image4.png",
+      "title": "Image 4"
+    },
+    {
+      "photo": "/assets/image5.png",
+      "title": "Image 5"
+    },
+    {
+      "photo": "/assets/image6.png",
+      "title": "Image 6"
+    }
+  ]
+}
